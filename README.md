@@ -1,24 +1,5 @@
-# README
+# How to write Feature Flags in a Rails Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a demo repository that demonstrates how to write [feature flags](https://www.cloudbees.com/blog/ultimate-feature-flag-guide), *also known as feature toggles*, in a Ruby on Rails application.
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
